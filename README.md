@@ -1,5 +1,5 @@
 # python
-this is a read.me file
+this is a readme file
 
 python is a coding language
 # School
